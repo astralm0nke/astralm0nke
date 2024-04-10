@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/finneas-sensiba-64b049154/">
   <img align="center" alt="Astral's LinkedIn" width="125px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-
+<br/>
+<br/>
 <details>
   <summary>About Me/Обо Мне</summary>
   I'm an indie python programmer and web developer. Currently on the market for a new position/job.
