@@ -7,5 +7,6 @@
 <details>
   <summary>About Me/Обо Мне</summary>
   I'm an indie python programmer and web developer. Currently on the market for a new position/job.
+  <br/>
   Я программист на Питон и веб-разработчик. В настоящее время ищу новую работу.
 </details>
