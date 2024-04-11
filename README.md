@@ -24,7 +24,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=html)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 ### 🧬 &nbsp;Technologies/Технологии:
