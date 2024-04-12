@@ -8,7 +8,7 @@
 <a href="https://leetcode.com/AstralM0nke/">
   <img align="center" alt="Astral's LeetCode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
-<a href="https://leetcode.com/AstralM0nke/">
+<a href="https://en.wikipedia.org/wiki/User:AstralM0nk%C3%A9">
   <img align="center" alt="Astral's Wiki Editor Page" width="100px" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" />
 </a>
 <br/>
