@@ -31,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
-### 🤝 &nbsp;Open-Source Contributions:
+### 🤝 &nbsp;Open-Source Contributions/Вклады О-/И-ого кода:
 + [PyHTools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
 <br/>
 <details>
