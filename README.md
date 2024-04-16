@@ -33,8 +33,6 @@
 
 ### 🤝 &nbsp;Open-Source Contributions:
 + [PyHTools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
-
-<br/>
 <br/>
 <details>
   <summary>About Me/Обо Мне</summary>
