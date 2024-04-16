@@ -36,7 +36,7 @@
 <br/>
 <details>
   <summary>About Me/Обо Мне</summary>
-  I'm an indie python programmer, writer, and web developer. Currently on the market for a new position/job.
+  I'm an indie python programmer, writer, and web developer. Currently on the market for a new internship/job.
   <br/>
   Я инди-программист на Питон, писатель, и веб-разработчик. В настоящее время ищу новую работу.
 </details>
