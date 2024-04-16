@@ -11,14 +11,6 @@
 <a href="https://en.wikipedia.org/wiki/User:AstralM0nk%C3%A9">
   <img align="center" alt="Astral's Wiki Editor Page" width="100px" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" />
 </a>
-<br/>
-<br/>
-<details>
-  <summary>About Me/Обо Мне</summary>
-  I'm an indie python programmer, writer, and web developer. Currently on the market for a new position/job.
-  <br/>
-  Я инди-программист на Питон, писатель, и веб-разработчик. В настоящее время ищу новую работу.
-</details>
 
 ### 💻 &nbsp;Languages/Языки:
 
@@ -41,3 +33,12 @@
 
 ### 🤝 &nbsp;Open-Source Contributions:
 + [PyHTools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
+
+<br/>
+<br/>
+<details>
+  <summary>About Me/Обо Мне</summary>
+  I'm an indie python programmer, writer, and web developer. Currently on the market for a new position/job.
+  <br/>
+  Я инди-программист на Питон, писатель, и веб-разработчик. В настоящее время ищу новую работу.
+</details>
