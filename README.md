@@ -40,4 +40,4 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 ### 🤝 &nbsp;Open-Source Contributions:
-+ [pyhtools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
++ [PyHTools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
