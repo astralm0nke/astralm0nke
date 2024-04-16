@@ -12,13 +12,13 @@
   <img align="center" alt="Astral's Wiki Editor Page" width="100px" src="https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" />
 </a>
 
-### 💻 &nbsp;Languages/Языки:
+### 💻 &nbsp;Languages|Языки:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-### 🧬 &nbsp;Technologies/Технологии:
+### 🧬 &nbsp;Technologies|Технологии:
 
 ![WireShark](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)&nbsp;
@@ -31,7 +31,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
-### 🤝 &nbsp;Open-Source Contributions/Вклады О-/И-ого кода:
+### 🤝 &nbsp;Open-Source Contributions|Вклады О-/И-ого кода:
 + [PyHTools](https://github.com/dmdhrumilmistry/pyhtools/tree/dev)&nbsp;
 <br/>
 <details>
