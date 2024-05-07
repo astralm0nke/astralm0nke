@@ -40,5 +40,6 @@
   <br/>
   Я инди-программист на Питон и писатель. В настоящее время ищу новую работу.
 </details>
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astralm0nke&theme=dark&show_icons=true)
 
