@@ -40,7 +40,5 @@
   <br/>
   Я инди-программист на Питон и писатель. В настоящее время ищу новую работу.
 </details>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=astralm0nke&theme=highconstrast)](https://git.io/streak-stats)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=astralm0nke&theme=dark&show_icons=true)
 
