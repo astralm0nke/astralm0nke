@@ -32,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 ### 🤝 &nbsp;Open-Source Contributions|Вклады О-/И-ого кода:
-+ [PyHTools](https://github.com/dmdhrumilmistry/pyhtools)&nbsp;
++ [PyHTools](https://github.com/dmdhrumilmistry/pyhtools)&nbsp;(dev branch)
 <br/>
 <details>
   <summary>About Me|Обо Мне</summary>
